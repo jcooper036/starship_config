@@ -14,7 +14,9 @@ symbol = " "
 
 [directory]
 style = "fg:#00fff7"
-truncation_length = 3
+truncation_length = 5
+truncation_symbol = "…/"
+truncate_to_repo = false
 
 [git_branch]
 style = "#9854ff"
